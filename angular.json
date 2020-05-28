@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "test-dynacred"
+    }
+  },
+  "defaultProject": "test-dynacred",
+  "cli": {
+    "analytics": "ee7a43f4-1561-47ea-b692-a6b5e81a448b"
+  }
 }
