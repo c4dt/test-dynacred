@@ -1,7 +1,7 @@
 import {Component, OnInit} from '@angular/core';
-import {KeyPair, User} from "@c4dt/dynacred";
-import {Log} from "@dedis/cothority";
-import {LocalCache} from "@dedis/cothority/byzcoin/byzcoin-rpc";
+import {KeyPair, User} from "@c4dt/dynacred-c4dt";
+import {Log} from "@c4dt/cothority";
+import {LocalCache} from "@c4dt/cothority/byzcoin/byzcoin-rpc";
 
 @Component({
     selector: 'app-root',
